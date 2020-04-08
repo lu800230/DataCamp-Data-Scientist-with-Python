@@ -5,6 +5,8 @@ Fix the code such that the printout runs without errors; use the function str() 
 Convert the variable pi_string to a float and store this float as a new variable, pi_float.
 
 
+
+
 # Definition of savings and result
 savings = 100
 result = 100 * 1.10 ** 7
