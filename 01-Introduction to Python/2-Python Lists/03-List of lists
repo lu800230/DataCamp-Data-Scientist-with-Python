@@ -6,6 +6,7 @@ Print out the type of house. Are you still dealing with a list?
 
 
 
+
 # area variables (in square meters)
 hall = 11.25
 kit = 18.0
