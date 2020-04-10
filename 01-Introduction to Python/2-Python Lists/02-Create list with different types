@@ -7,6 +7,7 @@ Print areas again; is the printout more informative this time?
 
 
 
+
 # area variables (in square meters)
 hall = 11.25
 kit = 18.0
